@@ -1,0 +1,247 @@
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+/* h1 {
+  font-family: 'Droid Arabic Kufi', serif;
+  text-align: center;
+} */
+
+.bg1{
+    background-image: url("1.jpg");
+    width: 100%;
+    height: 700px;
+    border-radius: 15px;
+    
+  
+
+}
+h1{
+  color: rgb(230, 165, 46);
+  font-family: 'Droid Arabic Kufi', serif;
+  text-align: center;
+  direction: rtl;
+  position: relative;
+  top: 20px;
+}
+
+.bg2{
+
+background-color: rgb(253, 130, 73);
+width: 80px;
+height: 696px;
+border-radius: 15px;
+border-bottom-right-radius: 0%;
+position: relative;
+bottom: 81px;
+left: 2px;
+
+}
+.facebook{
+position: relative;
+left: 15px;
+top: 50px;
+}
+.facebook:hover{
+  background-image: url("facebook_logo.png");
+  width: 60px;
+  height: 60px;
+}
+.telegram{
+  position: relative;
+  left: 15px;
+  top: 100px;
+}
+.telegram:hover{
+  background-image: url("telegram_logo.png");
+  width: 60px;
+  height: 60px;
+}
+.tiktok{
+  position: relative;
+  left: 15px;
+  top: 150px;
+}
+.tiktok:hover{
+  background-image: url("tik_tok.png");
+  width: 60px;
+  height: 60px;
+}
+.whatsapp{
+  position: relative;
+  left: 15px;
+  top: 200px;
+}
+.whatsapp:hover{
+  background-image: url("whatsapp_logo.png");
+  width: 60px;
+  height: 60px;
+}
+.youtube{
+  position: relative;
+  left: 15px;
+  top: 250px;
+}
+.youtube:hover{
+  background-image: url("youtube_logo.png");
+  width: 60px;
+  height: 60px;
+}
+.translate{
+  position: relative;
+  left: 15px;
+  top: 300px;
+}
+.translate:hover{
+  background-image: url("youtube_logo.png");
+  width: 60px;
+  height: 60px;
+}
+
+.container1{
+  background-color: rgb(253, 130, 73);
+  width: 250px;
+  height: 150px;
+  position: relative;
+  left: 259px;
+  bottom: 100px;
+  opacity: 0.7;
+  border-radius: 12px;
+  border-bottom-right-radius: 0%;
+}
+.container1:hover{
+  opacity: 10;
+
+}
+.container1 a{
+  text-decoration: none;
+  font-family: 'Droid Arabic Kufi', serif;
+  font-size: 30px;
+  position: relative;
+  left: 20px;
+}
+.tashkel{
+  position: relative;
+  right: 40%;
+  top: 55%;
+}
+.container2{
+  background-color: rgb(253, 130, 73);
+  width: 250px;
+  height: 150px;
+  position: relative;
+  left: 520px;
+  bottom: 266px;
+  opacity: 0.55;
+  border-radius: 12px;
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 0%;
+}
+.container2:hover{
+  opacity: 10;
+
+}
+.container2 a{
+  text-decoration: none;
+  font-family: 'Droid Arabic Kufi', serif;
+  font-size: 30px;
+  position: relative;
+  left: 40px;
+  top: 10px;
+  
+}
+.CSS_Gradient{
+  position: relative;
+  right: 30%;
+  top: 63%;
+}
+
+
+
+.container3{
+  background-color: rgb(253, 130, 73);
+  width: 250px;
+  height: 150px;
+  position: relative;
+  left: 780px;
+  bottom: 433px;
+  opacity: 0.55;
+  border-radius: 12px;
+  border-bottom-left-radius: 0%;
+
+
+}
+.container3:hover{
+  opacity: 10;
+
+}
+.container3 a{
+  text-decoration: none;
+  font-family: 'Droid Arabic Kufi', serif;
+  font-size: 30px;
+  position: relative;
+  left: 40px;
+  top: 10px;
+}
+.COOLORS{
+  position: relative;
+  right: 28%;
+  top: 60%;
+}
+
+.container4{
+    background-color: rgb(253, 130, 73);
+    width: 250px;
+    height: 150px;
+    position: relative;
+    left: 259px;
+    bottom: 440px;
+    opacity: 0.7;
+    border-radius: 12px;
+    border-bottom-right-radius: 0%;
+    border-top-right-radius: 0%;
+}
+.container4:hover{
+    opacity: 10;
+  
+  }
+.container4 a{
+    text-decoration: none;
+    font-family: 'Droid Arabic Kufi', serif;
+    font-size: 30px;
+    position: relative;
+    left: 37%;
+  }
+.Icons{
+    position: relative;
+    right: 1%;
+    top: 55%;
+}
+
+.container5{
+    background-color: rgb(253, 130, 73);
+    width: 250px;
+    height: 150px;
+    position: relative;
+    left: 520px;
+    bottom: 606px;
+    opacity: 0.7;
+    
+}
+.container5:hover{
+    opacity: 10;
+  
+  }
+.container5 a{
+    text-decoration: none;
+    font-family: 'Droid Arabic Kufi', serif;
+    font-size: 30px;
+    position: relative;
+    left: 33%;
+    bottom: 15%;
+  }
+.moslem{
+    position: relative;
+    right: 1%;
+    top: 48%;
+}
